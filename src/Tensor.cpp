@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
+#include <fmt/format.h>
 #include "kompute/Tensor.hpp"
 #include "kompute/Image.hpp"
 
